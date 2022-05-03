@@ -1,0 +1,9 @@
+int main()
+{
+    int      r;
+    printf("please input a number ")
+    p=r*2*3.14
+    a=r*r*3.14
+    printf("your input number= %d\n",r);
+    printf("your area of circle= %d\n",a);
+    printf("your circumference= %d\n",p);
