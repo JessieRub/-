@@ -1,0 +1,7 @@
+int main()
+{
+    int      i;
+    printf("please input a number ")
+    scanf("%d",&i);
+    printf("your input number= %d\n",i * 2);
+}
